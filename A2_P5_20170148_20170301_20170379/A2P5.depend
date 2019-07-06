@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555083911 source:c:\users\ag\desktop\a2_20170148_20170301_20170379\a2_p5_20170148_20170301_20170379\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<random>
+	<time.h>
+	<chrono>
+	<ctime>
+

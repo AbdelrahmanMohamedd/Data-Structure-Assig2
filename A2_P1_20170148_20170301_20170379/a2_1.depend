@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1554209808 source:c:\users\ag\desktop\a2_20170148_20170301_20170379\a2_p1_20170148_20170301_20170379\books.cpp
+	"books.h"
+	<iostream>
+	<string>
+
+1553933208 c:\users\ag\desktop\a2_20170148_20170301_20170379\a2_p1_20170148_20170301_20170379\books.h
+	"books.h"
+	<iostream>
+	<string>
+
+1554212054 source:c:\users\ag\desktop\a2_20170148_20170301_20170379\a2_p1_20170148_20170301_20170379\main.cpp
+	<iostream>
+	"make_books.h"
+
+1554212054 c:\users\ag\desktop\a2_20170148_20170301_20170379\a2_p1_20170148_20170301_20170379\make_books.h
+	<map>
+	<utility>
+	<string>
+	"books.h"
+
+1554212953 source:c:\users\ag\desktop\a2_20170148_20170301_20170379\a2_p1_20170148_20170301_20170379\make_books.cpp
+	"make_books.h"
+	"books.h"
+	<iostream>
+	<string>
+	<map>
+	<utility>
+	<algorithm>
+
